@@ -1,4 +1,5 @@
-Movie Search Web Application
+Movie Search Web Application:-
+
 This is a simple, responsive web application that allows users to search for movies and view detailed information about them.
 
 Features:
