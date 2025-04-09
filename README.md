@@ -1,6 +1,24 @@
-# IMDbPro-Frontend-
-A Simple web application to search movies and get information regarding that.
-Here I made two HTML and same for JS so that when user enters any movie and he want to have more info of that particular movie , this will go to next webpage to show more info for that particular movie. CSS for both the page will be same.
-Out HTML is divided into three section:- 
-One is for IMDb heading, One is to search and display results and one is for favorites section.
-We try to make it responsive as well as user friendly.
+Movie Search Web Application
+This is a simple, responsive web application that allows users to search for movies and view detailed information about them.
+
+Features:
+Movie Search: Users can enter a movie name and get a list of results.
+
+Detailed View: Clicking on a movie takes the user to a second page with more in-depth information about that specific title.
+
+Favorites Section: Users can save their favorite movies for easy access.
+
+Consistent Styling: Both pages share the same CSS for a seamless look and feel.
+
+Responsive Design: The layout is designed to be user-friendly and works well on various screen sizes.
+
+Structure:
+The HTML is organized into three main sections:
+
+Header – Displays the IMDb-style heading.
+
+Search and Results – Allows users to search for movies and displays the results dynamically.
+
+Favorites – A dedicated section to manage and view favorite movies.
+
+
